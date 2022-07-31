@@ -1,4 +1,7 @@
 # Olá, Eu sou o Daniel Perfeito! 
-###### (Sim, meu sobrenome é **Perfeito**, mas só o sobrenome kkk)
+##### (Sim, meu sobrenome é **Perfeito** kkk)
 
-:🇧🇷: Brasileiro
+* 👨🏻‍💻 Front End Developer
+* 📚 Estudando **JavaScript**
+* 🌐 Meu Site: **https://danielperfeito.dev.br/**
+

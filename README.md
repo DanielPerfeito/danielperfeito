@@ -10,15 +10,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielperfeito&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielperfeito&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-HTML" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <p> </p>
-  <img align="center" alt="Rafa-CSS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <p> </p>
-  <img align="center" alt="Daniel-Js" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <p> </p>
-  <img align="center" alt="Daniel-Js" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>       
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img align="center" alt="icon-HTML" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-Js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="icon-Sass" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>       
 </div>
+
 
 #
 

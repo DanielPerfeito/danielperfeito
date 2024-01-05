@@ -3,7 +3,7 @@
 
 * 👨🏻‍💻 Front End Developer
 * 📚 Estudando **JavaScript**
-* 🌐 Meu Site: **https://danielperfeito.dev.br/**
+* 🌐 Meu Portfólio: **https://danielperfeito.dev.br/**
 
 <div >
   <a href="https://github.com/danielperfeito">
